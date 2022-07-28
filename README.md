@@ -1,5 +1,5 @@
 # Welcome to Serampore - Designed by Sreeparna Ray
-## Website link - https://sreeparnaray.github.io/serampore/
+## Website link - https://sreeparnaray.github.io/Welcome_to_Serampore/
 
 ## Home Page :
 ![Screenshot (1987)](https://user-images.githubusercontent.com/67807475/181373707-9d008934-8e2b-44fa-bb71-71fd8b3fc0e5.png)
